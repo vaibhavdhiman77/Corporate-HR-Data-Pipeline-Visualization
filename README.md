@@ -34,7 +34,8 @@ The Power BI dashboard provides immediate answers to critical HR questions:
 ## 📸 Project Screenshots
 *(Note: Replace the placeholder links below with your actual screenshot URLs once uploaded to GitHub)*
 
-![Power BI Dashboard](dashboard_1.png)
+![Power BI Dashboard](dashboard_1.png)<img width="1920" height="1080" alt="dashboard_1 png" src="https://github.com/user-attachments/assets/238ebdf1-d15c-4734-b9c3-bd222338978e" />
+
 ![Python CLI Interface](Link_to_your_![Uploading dashboard_1.png.png…]()
 <img width="1920" height="1080" alt="terminal_screenshot png" src="https://github.com/user-attachments/assets/9197602b-0ae4-420f-a08d-dbbfd33304a2" />
 terminal_screenshot.png)
