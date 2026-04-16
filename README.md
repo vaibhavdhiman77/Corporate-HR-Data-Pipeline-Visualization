@@ -1,3 +1,4 @@
+
 # Corporate-HR-Data-Pipeline-Visualization
 
 ## 📌 Project Overview
@@ -34,7 +35,9 @@ The Power BI dashboard provides immediate answers to critical HR questions:
 *(Note: Replace the placeholder links below with your actual screenshot URLs once uploaded to GitHub)*
 
 ![Power BI Dashboard](dashboard_1.png)
-![Python CLI Interface](Link_to_your_terminal_screenshot.png)
+![Python CLI Interface](Link_to_your_![Uploading dashboard_1.png.png…]()
+<img width="1920" height="1080" alt="terminal_screenshot png" src="https://github.com/user-attachments/assets/9197602b-0ae4-420f-a08d-dbbfd33304a2" />
+terminal_screenshot.png)
 
 ## 🚀 How to Run the Project
 1. Clone this repository: `git clone https://github.com/YourUsername/HR-Data-Analytics-End-to-End.git`
